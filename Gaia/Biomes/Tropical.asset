@@ -49,5 +49,10 @@ MonoBehaviour:
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 682f100d87fc5414788c1f28d8edf487,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 1
   m_postProcessingProfileGUID: 
   m_gaiaSceneCullingProfile: {fileID: 0}

@@ -372,7 +372,7 @@ MonoBehaviour:
   m_isWorldmapSpawner: 0
   m_spawnRange: 1024
   m_generateRandomSeed: 1
-  m_randomSeed: 1841526522
+  m_randomSeed: 1791161312
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
@@ -806,7 +806,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 1405
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
