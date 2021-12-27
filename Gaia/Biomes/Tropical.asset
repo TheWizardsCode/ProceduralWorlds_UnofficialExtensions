@@ -10,42 +10,42 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8bf996bd940696a4b814912e16c3d5ac, type: 3}
-  m_Name: Tropical Island Biome
+  m_Name: Tropical
   m_EditorClassIdentifier: 
   m_orderNumber: 0
   m_spawnerPresetList:
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: 0a7b0b142259518479b9814833dc63b8,
+    m_spawnerSettings: {fileID: 11400000, guid: 4d599a6e929561d44a3680a7ba7b0b1c,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: ae7a904f14e31724580c70125c2246cf,
+    m_spawnerSettings: {fileID: 11400000, guid: 8b2c380e86cc4da4799cb07b697f1e43,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: 688150c978f7b17479f774e739ddf027,
+    m_spawnerSettings: {fileID: 11400000, guid: 552e8a74ec772a740831b2de99ea2cd8,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: f1f35c45e51b99341aed41e6fa5c4552,
+    m_spawnerSettings: {fileID: 11400000, guid: 97eac5cd63a796344bd0b6dd45418514,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: 3864fd2a5015dc44abcf9e809c0af52e,
+    m_spawnerSettings: {fileID: 11400000, guid: 6fc40983a09cebe46ac2276661ad7beb,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: 47f9824b253c41144918580a518f5c8b,
+    m_spawnerSettings: {fileID: 11400000, guid: 66add781cee0dcc4bb1d87feea8509b5,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   - m_autoAssignPrototypes: 1
-    m_spawnerSettings: {fileID: 11400000, guid: 69c8f024077b31246bc89f94b79d8e3f,
+    m_spawnerSettings: {fileID: 11400000, guid: a394c240f6634cf43ab17f2b7ff5ef80,
       type: 2}
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1

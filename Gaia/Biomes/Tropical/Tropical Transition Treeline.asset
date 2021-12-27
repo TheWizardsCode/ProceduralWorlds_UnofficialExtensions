@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f1d61257710f55f478816040e1d1dfc9, type: 3}
-  m_Name: Tropical Island Transition Treeline
+  m_Name: Tropical Transition Treeline
   m_EditorClassIdentifier: 
   m_resources:
     m_resourcesID: 79f979a1-d7e1-4e1a-b9da-2ae448847df0
@@ -28,6 +28,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -46,6 +51,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: CoconutPalmTree02_TESS_LOD
       m_desktopPrefab: {fileID: 1524087659306046, guid: 57cf59a0962d2ae42b4b77c11b7ced05,
         type: 3}
@@ -54,6 +64,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -72,6 +87,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: CoconutPalmTree03_LOD
       m_desktopPrefab: {fileID: 1729576798256998, guid: b2cbcb054cb822d43a42213c2b6448cd,
         type: 3}
@@ -80,6 +100,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -98,6 +123,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: CoconutPalmTree04_LOD
       m_desktopPrefab: {fileID: 1867021725858420, guid: db72c1af1df6459489766a6817585d8c,
         type: 3}
@@ -106,6 +136,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -124,6 +159,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: BananaTree01_LOD
       m_desktopPrefab: {fileID: 1217383726233972, guid: c36751e5b48b2cc4e807096a643c718b,
         type: 3}
@@ -132,6 +172,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -150,6 +195,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: BananaTree02_LOD
       m_desktopPrefab: {fileID: 1954114076805010, guid: 27e75d861a01e544888cfd259bf5eba5,
         type: 3}
@@ -158,6 +208,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -176,6 +231,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: DwarfPalmettoPalm01_LOD
       m_desktopPrefab: {fileID: 1000011332720000, guid: b3f4718cd8809cd448660a63e0e63f1c,
         type: 3}
@@ -184,6 +244,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -202,6 +267,11 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     - m_name: DwarfPalmettoPalm02_LOD
       m_desktopPrefab: {fileID: 1000013873327532, guid: cbbae9508b4bb28448e432ff8dc7cef6,
         type: 3}
@@ -210,6 +280,11 @@ MonoBehaviour:
       m_bendFactor: 0
       m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
       m_dryColour: {r: 1, g: 1, b: 1, a: 1}
+      m_snapToTerrain: 1
+      m_customOffset: 0
+      m_minYOffset: -2
+      m_maxYOffset: 2
+      m_yOffsetBasedOn: 0
       m_spawnScale: 1
       m_minWidth: 0.75
       m_maxWidth: 1.5
@@ -228,11 +303,17 @@ MonoBehaviour:
       m_spawnExtensions: []
       m_instancesFoldOut: 0
       m_dnaFoldedOut: 0
+      m_useFlora: 0
+      m_floraLODs: []
+      m_pwDetailerSettingsObject: {fileID: 0}
+      m_detailerSettingsObjectAssetGUID: 
+      m_detailerSettingsObjectInstanceID: 0
     m_gameObjectPrototypes: []
     m_spawnExtensionPrototypes: []
     m_stampDistributionPrototypes: []
     m_worldBiomeMaskPrototypes: []
     m_probePrototypes: []
+    m_terrainModifierStampPrototypes: []
   m_x: 0
   m_y: 50
   m_z: 0
@@ -242,14 +323,15 @@ MonoBehaviour:
   m_isWorldmapSpawner: 0
   m_spawnRange: 1024
   m_generateRandomSeed: 1
-  m_randomSeed: 1304301634
+  m_randomSeed: 565964238
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
-  - m_name: Palm
+  - m_name: Cocunut Palm 01
     m_guid: a4a4b863-1d53-4e2c-99cf-a153a8f4e448
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.25
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -279,7 +361,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1323
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -290,10 +372,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Palm (1)
+    m_changesHeightmap: 0
+  - m_name: Cocunut Palm 02
     m_guid: ae70cf09-4330-40fb-b317-10872a62b64a
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.25
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -323,7 +407,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1339
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -334,10 +418,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Palm (2)
+    m_changesHeightmap: 0
+  - m_name: Coconut Palm 03
     m_guid: 4a3cd63e-94f7-43d1-a6cb-977800ede597
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.25
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -367,7 +453,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1342
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -378,10 +464,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Palm (3)
+    m_changesHeightmap: 0
+  - m_name: Cocunut Palm O4
     m_guid: b70c106d-4c0d-495d-9eb2-a15930b372c1
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.25
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -411,7 +499,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1324
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -422,10 +510,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Banana Tree
+    m_changesHeightmap: 0
+  - m_name: Banana Tree 01
     m_guid: 1e84b5df-c3a1-4c20-a22c-a6ca4d63c659
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.17899999
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -455,7 +545,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1513
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -466,10 +556,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Banana Tree (1)
+    m_changesHeightmap: 0
+  - m_name: Banana Tree 02
     m_guid: bff54c86-c6cd-4ad5-94cd-de287c1d85d1
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.17899999
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -499,7 +591,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1496
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -510,10 +602,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Dwarf Palm
+    m_changesHeightmap: 0
+  - m_name: Dwarf Plametto Palm 01
     m_guid: 33e0dcf1-2f8b-4634-a114-9d496d27279c
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.084
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -543,7 +637,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1639
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -554,10 +648,12 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
-  - m_name: Dwarf Palm (1)
+    m_changesHeightmap: 0
+  - m_name: Dwarf Palmetto Palm 02
     m_guid: 8716c871-cf06-4638-9921-3aa7e0e85271
     m_useExtendedSpawn: 0
     m_minRequiredFitness: 0.17899999
+    m_minInstanceRequiredFitness: 0
     m_failureRate: 0
     m_maxInstances: 40000000
     m_ignoreMaxInstances: 0
@@ -587,7 +683,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1531
+    m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -598,10 +694,11 @@ MonoBehaviour:
     m_visibleInSceneHierarchy: 1
     m_usesBoxStandIn: 0
     m_boundsCollisionCheck: 0
+    m_changesHeightmap: 0
   m_showGizmos: 1
   m_showDebug: 0
   m_showTerrainHelper: 1
-  spawnMode: 0
+  m_spawnMode: 0
   imageMasks:
   - m_active: 1
     m_invert: 0
@@ -609,14 +706,20 @@ MonoBehaviour:
     m_influence: 0
     m_operation: 9
     m_blendMode: 0
+    m_imageMaskLocation: 0
     m_strength: 1
-    m_seaLevel: 50
-    m_maxWorldHeight: 198.50304
+    m_seaLevel: 25
+    m_maxWorldHeight: 146.596
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
     m_xOffSetScalar: 0
     m_zOffSetScalar: 0
+    m_xScale: 1
+    m_zScale: 1
+    m_rotationDegrees: 0
+    m_tiling: 0
+    m_imageMaskSpace: 0
     m_imageMaskTextureGUID: 
     m_imageMaskFilterMode: 0
     m_imageMaskColorSelectionColor: {r: 1, g: 1, b: 1, a: 1}
@@ -636,30 +739,6 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_heightMaskCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -702,6 +781,30 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+    m_heightMaskCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
     m_heightMaskType: 1
     m_heightMaskUnit: 1
     m_relativeHeightMin: 25
@@ -761,6 +864,7 @@ MonoBehaviour:
     m_noisePreviewTextureLocked: 0
     m_ShowNoiseTypeSettings: 0
     m_scaleNoiseToTerrainSize: 0
+    m_distanceMaskSquareRoundness: 0.25
     m_collisionMaskExpanded: 1
     m_collisionMasks: []
     m_erosionMaskOutput: 0
@@ -792,20 +896,28 @@ MonoBehaviour:
     m_concavityFeatureSize: 10
     m_foldedOut: 1
     m_selectedWorldBiomeMaskGUID: 
+    m_growAndShrinkValue: 0
+    m_globalSpawnerMaskStackRT: {fileID: 0}
   - m_active: 1
     m_invert: 0
     m_hasErrors: 0
     m_influence: 0
     m_operation: 9
     m_blendMode: 4
+    m_imageMaskLocation: 0
     m_strength: 1
-    m_seaLevel: 50
-    m_maxWorldHeight: 198.50304
+    m_seaLevel: 25
+    m_maxWorldHeight: 146.596
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
     m_xOffSetScalar: 0
     m_zOffSetScalar: 0
+    m_xScale: 1
+    m_zScale: 1
+    m_rotationDegrees: 0
+    m_tiling: 0
+    m_imageMaskSpace: 0
     m_imageMaskTextureGUID: 
     m_imageMaskFilterMode: 0
     m_imageMaskColorSelectionColor: {r: 1, g: 1, b: 1, a: 1}
@@ -825,30 +937,6 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_heightMaskCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -891,6 +979,30 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+    m_heightMaskCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
     m_heightMaskType: 1
     m_heightMaskUnit: 1
     m_relativeHeightMin: 25
@@ -950,6 +1062,7 @@ MonoBehaviour:
     m_noisePreviewTextureLocked: 0
     m_ShowNoiseTypeSettings: 0
     m_scaleNoiseToTerrainSize: 0
+    m_distanceMaskSquareRoundness: 0.25
     m_collisionMaskExpanded: 1
     m_collisionMasks: []
     m_erosionMaskOutput: 0
@@ -981,20 +1094,28 @@ MonoBehaviour:
     m_concavityFeatureSize: 10
     m_foldedOut: 1
     m_selectedWorldBiomeMaskGUID: 
+    m_growAndShrinkValue: 0
+    m_globalSpawnerMaskStackRT: {fileID: 0}
   - m_active: 1
     m_invert: 0
     m_hasErrors: 0
     m_influence: 0
     m_operation: 3
     m_blendMode: 4
+    m_imageMaskLocation: 0
     m_strength: 1
-    m_seaLevel: 50
-    m_maxWorldHeight: 198.50304
+    m_seaLevel: 25
+    m_maxWorldHeight: 146.596
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
     m_xOffSetScalar: 0
     m_zOffSetScalar: 0
+    m_xScale: 1
+    m_zScale: 1
+    m_rotationDegrees: 0
+    m_tiling: 0
+    m_imageMaskSpace: 0
     m_imageMaskTextureGUID: 
     m_imageMaskFilterMode: 0
     m_imageMaskColorSelectionColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1014,30 +1135,6 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_heightMaskCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -1073,6 +1170,30 @@ MonoBehaviour:
         value: 1
         inSlope: 1
         outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_heightMaskCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
@@ -1139,6 +1260,7 @@ MonoBehaviour:
     m_noisePreviewTextureLocked: 0
     m_ShowNoiseTypeSettings: 0
     m_scaleNoiseToTerrainSize: 0
+    m_distanceMaskSquareRoundness: 0.25
     m_collisionMaskExpanded: 1
     m_collisionMasks: []
     m_erosionMaskOutput: 0
@@ -1170,20 +1292,28 @@ MonoBehaviour:
     m_concavityFeatureSize: 10
     m_foldedOut: 1
     m_selectedWorldBiomeMaskGUID: 
+    m_growAndShrinkValue: 0
+    m_globalSpawnerMaskStackRT: {fileID: 0}
   - m_active: 1
     m_invert: 0
     m_hasErrors: 0
     m_influence: 0
     m_operation: 5
     m_blendMode: 0
+    m_imageMaskLocation: 0
     m_strength: 1
-    m_seaLevel: 50
-    m_maxWorldHeight: 198.50304
+    m_seaLevel: 25
+    m_maxWorldHeight: 146.596
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
     m_xOffSetScalar: 0
     m_zOffSetScalar: 0
+    m_xScale: 1
+    m_zScale: 1
+    m_rotationDegrees: 0
+    m_tiling: 0
+    m_imageMaskSpace: 0
     m_imageMaskTextureGUID: 
     m_imageMaskFilterMode: 0
     m_imageMaskColorSelectionColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1212,30 +1342,6 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    m_heightMaskCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
     m_strengthTransformCurve:
       serializedVersion: 2
       m_Curve:
@@ -1253,6 +1359,30 @@ MonoBehaviour:
         value: 1
         inSlope: 1
         outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_heightMaskCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
@@ -1319,6 +1449,7 @@ MonoBehaviour:
     m_noisePreviewTextureLocked: 0
     m_ShowNoiseTypeSettings: 0
     m_scaleNoiseToTerrainSize: 0
+    m_distanceMaskSquareRoundness: 0.25
     m_collisionMaskExpanded: 1
     m_collisionMasks:
     - m_active: 1
@@ -1327,14 +1458,22 @@ MonoBehaviour:
       m_treeSpawnRuleGUID: cb73fed7-5a7b-4f95-b64e-d9cf1e9d1b70
       m_tag: 
       m_Radius: 29.93
-      m_layer: 
+      m_growShrinkDistance: 0
+      m_layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      m_layerMaskLayerNames: []
     - m_active: 1
       m_invert: 0
       m_type: 0
       m_treeSpawnRuleGUID: 88a7897d-6509-43d7-82f0-bcdc8170431f
       m_tag: 
       m_Radius: 12.25
-      m_layer: 
+      m_growShrinkDistance: 0
+      m_layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      m_layerMaskLayerNames: []
     m_erosionMaskOutput: 0
     m_erosionSimScale: 9
     m_erosionHydroTimeDelta: 0.05
@@ -1364,6 +1503,8 @@ MonoBehaviour:
     m_concavityFeatureSize: 10
     m_foldedOut: 1
     m_selectedWorldBiomeMaskGUID: 
+    m_growAndShrinkValue: 0
+    m_globalSpawnerMaskStackRT: {fileID: 0}
   m_clearSpawnsToggleTrees: 0
   m_clearSpawnsToggleDetails: 0
   m_clearSpawnsToggleGOs: 0
@@ -1371,4 +1512,8 @@ MonoBehaviour:
   m_clearSpawnsToggleProbes: 0
   m_clearSpawnsFor: 1
   m_clearSpawnsFrom: 0
-  lastGUIDSaved: 688150c978f7b17479f774e739ddf027
+  m_lastGUIDSaved: 
+  m_stampDensity: 0
+  m_stampJitter: 0.25
+  m_stampWidth: 100
+  m_stampHeight: 100

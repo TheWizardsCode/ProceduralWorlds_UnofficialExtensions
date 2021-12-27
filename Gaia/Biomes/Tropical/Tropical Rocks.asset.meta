@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: 3864fd2a5015dc44abcf9e809c0af52e
-labels:
-- GaiaManagerSpawner
+guid: 0536146f9d3d76c468a4cc4af060e7bf
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 0
+  mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
