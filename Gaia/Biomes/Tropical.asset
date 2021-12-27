@@ -50,5 +50,4 @@ MonoBehaviour:
     m_isActiveInStamper: 0
     m_isActiveInBiome: 1
   m_postProcessingProfileGUID: 
-  m_gaiaSceneCullingProfile: {fileID: 11400000, guid: c832f088050d7034a98eadb4b979dfeb,
-    type: 2}
+  m_gaiaSceneCullingProfile: {fileID: 0}
