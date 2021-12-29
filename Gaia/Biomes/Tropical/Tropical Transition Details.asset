@@ -17,57 +17,8 @@ MonoBehaviour:
     m_name: Gaia Resource
     m_beachHeight: 5
     m_terrainHeight: 1000
-    m_texturePrototypes:
-    - m_name: New Texture 1
-      m_texture: {fileID: 0}
-      m_textureFileName: 
-      m_normal: {fileID: 0}
-      m_maskmap: {fileID: 0}
-      m_CTSSmoothnessMap: {fileID: 0}
-      m_CTSRoughnessMap: {fileID: 0}
-      m_CTSHeightMap: {fileID: 0}
-      m_CTSAmbientOcclusionMap: {fileID: 0}
-      m_normalFileName: 
-      m_sizeX: 10
-      m_sizeY: 10
-      m_offsetX: 0
-      m_offsetY: 0
-      m_metallic: 0
-      m_smoothness: 0
-      m_spawnCriteria: []
-      m_LayerGUID: 
-      m_normalScale: 1
-      m_diffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
-      m_diffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
-      m_maskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
-      m_maskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
-      m_specularColor: {r: 0, g: 0, b: 0, a: 0}
-      m_channelRemapFoldedOut: 0
-    m_detailPrototypes:
-    - m_name: FlowerPatch01_LOD
-      m_renderMode: 2
-      m_detailProtoype: {fileID: 1637129309971480, guid: 81400b3caf7480f4a8684461d5338514,
-        type: 3}
-      m_detailPrototypeFileName: 
-      m_detailTexture: {fileID: 0}
-      m_detailTextureFileName: 
-      m_minWidth: 1
-      m_maxWidth: 2
-      m_minHeight: 1
-      m_maxHeight: 2
-      m_noiseSpread: 0.3
-      m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
-      m_dryColour: {r: 1, g: 1, b: 1, a: 1}
-      m_useFlora: 0
-      m_floraLODs: []
-      m_dna:
-        m_boundsRadius: 1
-        m_scaleMultiplier: 1
-        m_extParam: 
-        m_protoIdx: 0
-      m_spawnCriteria: []
-      m_spawnExtensions: []
-      m_dnaFoldedOut: 0
+    m_texturePrototypes: []
+    m_detailPrototypes: []
     m_treePrototypes:
     - m_name: Alocasia01_LOD
       m_desktopPrefab: {fileID: 1060425062618106, guid: 38515b9c70f2d6e4c823ea9d3f34a797,
@@ -126,41 +77,6 @@ MonoBehaviour:
       m_widthRandomPercentage: 0.5
       m_heightRandomPercentage: 0.5
       m_lastUsedSpawnScale: 3
-      m_lastUsedMinWidth: 0.75
-      m_lastUsedMaxWidth: 1.5
-      m_lastUsedMinHeight: 0.75
-      m_lastUsedMaxHeight: 1.5
-      m_lastUsedWidthRandomPercentage: 0.5
-      m_lastUsedHeightRandomPercentage: 0.5
-      m_spawnCriteria: []
-      m_spawnExtensions: []
-      m_instancesFoldOut: 0
-      m_dnaFoldedOut: 0
-      m_useFlora: 0
-      m_floraLODs: []
-      m_pwDetailerSettingsObject: {fileID: 0}
-      m_detailerSettingsObjectAssetGUID: 
-      m_detailerSettingsObjectInstanceID: 0
-    - m_name: New Tree 1
-      m_desktopPrefab: {fileID: 0}
-      m_desktopPrefabFileName: 
-      m_mobilePrefabFileName: 
-      m_bendFactor: 0
-      m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
-      m_dryColour: {r: 1, g: 1, b: 1, a: 1}
-      m_snapToTerrain: 1
-      m_customOffset: 0
-      m_minYOffset: -2
-      m_maxYOffset: 2
-      m_yOffsetBasedOn: 0
-      m_spawnScale: 1
-      m_minWidth: 0.75
-      m_maxWidth: 1.5
-      m_minHeight: 0.75
-      m_maxHeight: 1.5
-      m_widthRandomPercentage: 0.5
-      m_heightRandomPercentage: 0.5
-      m_lastUsedSpawnScale: 1
       m_lastUsedMinWidth: 0.75
       m_lastUsedMaxWidth: 1.5
       m_lastUsedMinHeight: 0.75
@@ -356,41 +272,6 @@ MonoBehaviour:
       m_pwDetailerSettingsObject: {fileID: 0}
       m_detailerSettingsObjectAssetGUID: 
       m_detailerSettingsObjectInstanceID: 0
-    - m_name: New Tree 2
-      m_desktopPrefab: {fileID: 0}
-      m_desktopPrefabFileName: 
-      m_mobilePrefabFileName: 
-      m_bendFactor: 0
-      m_healthyColour: {r: 1, g: 1, b: 1, a: 1}
-      m_dryColour: {r: 1, g: 1, b: 1, a: 1}
-      m_snapToTerrain: 1
-      m_customOffset: 0
-      m_minYOffset: -2
-      m_maxYOffset: 2
-      m_yOffsetBasedOn: 0
-      m_spawnScale: 1
-      m_minWidth: 0.75
-      m_maxWidth: 1.5
-      m_minHeight: 0.75
-      m_maxHeight: 1.5
-      m_widthRandomPercentage: 0.5
-      m_heightRandomPercentage: 0.5
-      m_lastUsedSpawnScale: 1
-      m_lastUsedMinWidth: 0.75
-      m_lastUsedMaxWidth: 1.5
-      m_lastUsedMinHeight: 0.75
-      m_lastUsedMaxHeight: 1.5
-      m_lastUsedWidthRandomPercentage: 0.5
-      m_lastUsedHeightRandomPercentage: 0.5
-      m_spawnCriteria: []
-      m_spawnExtensions: []
-      m_instancesFoldOut: 0
-      m_dnaFoldedOut: 0
-      m_useFlora: 0
-      m_floraLODs: []
-      m_pwDetailerSettingsObject: {fileID: 0}
-      m_detailerSettingsObjectAssetGUID: 
-      m_detailerSettingsObjectInstanceID: 0
     m_gameObjectPrototypes:
     - m_name: Flowers
       m_instances:
@@ -476,9 +357,9 @@ MonoBehaviour:
   m_height: 10
   m_rotation: 0
   m_isWorldmapSpawner: 0
-  m_spawnRange: 1024
+  m_spawnRange: 768
   m_generateRandomSeed: 1
-  m_randomSeed: 786484622
+  m_randomSeed: 1248882063
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
@@ -508,7 +389,7 @@ MonoBehaviour:
       m_imageMaskLocation: 0
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -723,7 +604,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1148
+    m_spawnedInstances: 968
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -761,7 +642,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -976,7 +857,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1166
+    m_spawnedInstances: 966
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1003,7 +884,7 @@ MonoBehaviour:
     m_jitterPercent: 1
     m_boundsCheckQuality: 25
     m_resourceType: 2
-    m_resourceIdx: 3
+    m_resourceIdx: 2
     m_imageMasks:
     - m_active: 1
       m_invert: 0
@@ -1014,7 +895,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1229,7 +1110,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 818
+    m_spawnedInstances: 682
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1256,7 +1137,7 @@ MonoBehaviour:
     m_jitterPercent: 1
     m_boundsCheckQuality: 25
     m_resourceType: 2
-    m_resourceIdx: 4
+    m_resourceIdx: 3
     m_imageMasks:
     - m_active: 1
       m_invert: 0
@@ -1267,7 +1148,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1482,7 +1363,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 466
+    m_spawnedInstances: 380
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1509,7 +1390,7 @@ MonoBehaviour:
     m_jitterPercent: 1
     m_boundsCheckQuality: 25
     m_resourceType: 2
-    m_resourceIdx: 5
+    m_resourceIdx: 4
     m_imageMasks:
     - m_active: 1
       m_invert: 0
@@ -1520,7 +1401,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1735,7 +1616,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 442
+    m_spawnedInstances: 377
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1762,7 +1643,7 @@ MonoBehaviour:
     m_jitterPercent: 1
     m_boundsCheckQuality: 25
     m_resourceType: 2
-    m_resourceIdx: 6
+    m_resourceIdx: 5
     m_imageMasks:
     - m_active: 1
       m_invert: 0
@@ -1773,7 +1654,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1988,7 +1869,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 1116
+    m_spawnedInstances: 1014
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -2015,7 +1896,7 @@ MonoBehaviour:
     m_jitterPercent: 1
     m_boundsCheckQuality: 25
     m_resourceType: 2
-    m_resourceIdx: 7
+    m_resourceIdx: 6
     m_imageMasks:
     - m_active: 1
       m_invert: 0
@@ -2026,7 +1907,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -2217,13 +2098,13 @@ MonoBehaviour:
     m_noiseStrength: 1
     m_noiseInvert: 0
     m_isActive: 1
-    m_isFoldedOut: 1
+    m_isFoldedOut: 0
     m_currInstanceCnt: 0
     m_activeInstanceCnt: 0
     m_inactiveInstanceCnt: 0
-    m_resourceSettingsFoldedOut: 1
+    m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 363
+    m_spawnedInstances: 246
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -2261,7 +2142,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -2450,7 +2331,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -2665,7 +2546,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 4368
+    m_spawnedInstances: 395
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -2691,7 +2572,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -2880,7 +2761,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -3069,7 +2950,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -3120,6 +3001,15 @@ MonoBehaviour:
         weightedMode: 0
         inWeight: 0
         outWeight: 0
+      - serializedVersion: 3
+        time: 0.1545228
+        value: 0.5610106
+        inSlope: 1.0000002
+        outSlope: 1.0000002
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
@@ -3235,6 +3125,17 @@ MonoBehaviour:
       m_treeSpawnRuleGUID: 88a7897d-6509-43d7-82f0-bcdc8170431f
       m_tag: 
       m_Radius: 20
+      m_growShrinkDistance: 0
+      m_layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      m_layerMaskLayerNames: []
+    - m_active: 1
+      m_invert: 0
+      m_type: 1
+      m_treeSpawnRuleGUID: a4a4b863-1d53-4e2c-99cf-a153a8f4e448
+      m_tag: PW - Building
+      m_Radius: 12
       m_growShrinkDistance: 0
       m_layerMask:
         serializedVersion: 2

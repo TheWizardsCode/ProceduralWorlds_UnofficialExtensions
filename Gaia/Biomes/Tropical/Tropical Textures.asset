@@ -233,9 +233,9 @@ MonoBehaviour:
   m_height: 10
   m_rotation: 0
   m_isWorldmapSpawner: 0
-  m_spawnRange: 1024
+  m_spawnRange: 768
   m_generateRandomSeed: 1
-  m_randomSeed: 716421916
+  m_randomSeed: 1167917921
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
@@ -311,7 +311,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -500,7 +500,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -753,7 +753,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1006,7 +1006,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1195,7 +1195,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0

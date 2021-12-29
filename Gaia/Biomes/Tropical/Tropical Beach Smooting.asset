@@ -291,7 +291,7 @@ MonoBehaviour:
   m_height: 10
   m_rotation: 0
   m_isWorldmapSpawner: 0
-  m_spawnRange: 1024
+  m_spawnRange: 768
   m_generateRandomSeed: 0
   m_randomSeed: 0
   m_spawnDensity: 1
@@ -325,11 +325,11 @@ MonoBehaviour:
     m_noiseStrength: 1
     m_noiseInvert: 0
     m_isActive: 1
-    m_isFoldedOut: 1
+    m_isFoldedOut: 0
     m_currInstanceCnt: 0
     m_activeInstanceCnt: 0
     m_inactiveInstanceCnt: 0
-    m_resourceSettingsFoldedOut: 1
+    m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
     m_spawnedInstances: 0
     m_goSpawnTargetMode: 0
@@ -357,7 +357,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -457,8 +457,8 @@ MonoBehaviour:
     m_heightMaskUnit: 1
     m_relativeHeightMin: -17.04
     m_relativeHeightMax: 38.7
-    m_absoluteHeightMin: 0.013671875
-    m_absoluteHeightMax: 55.753674
+    m_absoluteHeightMin: 2.999773
+    m_absoluteHeightMax: 58.739777
     m_seaLevelRelativeHeightMin: -109876.55
     m_seaLevelRelativeHeightMax: 109876.55
     tree1active: 0
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_clearSpawnsToggleProbes: 0
   m_clearSpawnsFor: 1
   m_clearSpawnsFrom: 0
-  m_lastGUIDSaved: 
+  m_lastGUIDSaved: 682f100d87fc5414788c1f28d8edf487
   m_stampDensity: 0
   m_stampJitter: 0.25
   m_stampWidth: 100

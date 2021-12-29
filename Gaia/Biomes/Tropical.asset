@@ -18,7 +18,7 @@ MonoBehaviour:
     m_spawnerSettings: {fileID: 11400000, guid: 682f100d87fc5414788c1f28d8edf487,
       type: 2}
     m_isActiveInStamper: 0
-    m_isActiveInBiome: 1
+    m_isActiveInBiome: 0
   - m_autoAssignPrototypes: 1
     m_spawnerSettings: {fileID: 11400000, guid: 4d599a6e929561d44a3680a7ba7b0b1c,
       type: 2}

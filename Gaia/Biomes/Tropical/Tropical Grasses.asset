@@ -148,9 +148,9 @@ MonoBehaviour:
   m_height: 10
   m_rotation: 0
   m_isWorldmapSpawner: 0
-  m_spawnRange: 1024
+  m_spawnRange: 768
   m_generateRandomSeed: 1
-  m_randomSeed: 1691789802
+  m_randomSeed: 1495150645
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
@@ -180,7 +180,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -395,7 +395,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 2416153
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -433,7 +433,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -648,7 +648,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 978852
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -686,7 +686,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -901,7 +901,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 2109229
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -939,7 +939,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1146,7 +1146,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1343,7 +1343,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 1636612
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1381,7 +1381,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1578,7 +1578,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 22823
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1604,7 +1604,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -1793,7 +1793,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -1991,7 +1991,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -2036,20 +2036,29 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 0
+        inSlope: 2.2931118
+        outSlope: 2.2931118
+        tangentMode: 34
         weightedMode: 0
         inWeight: 0
-        outWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.23236057
+        value: 0.53282875
+        inSlope: 1.4508467
+        outSlope: 1.4508467
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 0
+        inSlope: 0.60858166
+        outSlope: 0.60858166
+        tangentMode: 34
         weightedMode: 0
-        inWeight: 0
+        inWeight: 0.33333334
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -2146,6 +2155,17 @@ MonoBehaviour:
       m_treeSpawnRuleGUID: cb73fed7-5a7b-4f95-b64e-d9cf1e9d1b70
       m_tag: 
       m_Radius: 19
+      m_growShrinkDistance: 0
+      m_layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      m_layerMaskLayerNames: []
+    - m_active: 1
+      m_invert: 0
+      m_type: 1
+      m_treeSpawnRuleGUID: a4a4b863-1d53-4e2c-99cf-a153a8f4e448
+      m_tag: PW - Building
+      m_Radius: 15
       m_growShrinkDistance: 0
       m_layerMask:
         serializedVersion: 2

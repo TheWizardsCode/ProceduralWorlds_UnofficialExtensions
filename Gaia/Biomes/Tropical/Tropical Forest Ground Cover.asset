@@ -322,9 +322,9 @@ MonoBehaviour:
   m_height: 10
   m_rotation: 0
   m_isWorldmapSpawner: 0
-  m_spawnRange: 1024
+  m_spawnRange: 768
   m_generateRandomSeed: 1
-  m_randomSeed: 2091881154
+  m_randomSeed: 1391754414
   m_spawnDensity: 1
   m_resourcesPath: 
   m_spawnerRules:
@@ -354,7 +354,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -543,7 +543,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -758,7 +758,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 631
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -796,7 +796,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1003,7 +1003,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1192,7 +1192,7 @@ MonoBehaviour:
       m_imageMaskLocation: 1
       m_strength: 1
       m_seaLevel: 25
-      m_maxWorldHeight: 146.596
+      m_maxWorldHeight: 124.75191
       m_minWorldHeight: 0
       m_xOffSet: 0
       m_zOffSet: 0
@@ -1389,7 +1389,7 @@ MonoBehaviour:
     m_inactiveInstanceCnt: 0
     m_resourceSettingsFoldedOut: 0
     m_isHelpActive: 0
-    m_spawnedInstances: 0
+    m_spawnedInstances: 172
     m_goSpawnTargetMode: 0
     m_goSpawnTarget: {fileID: 0}
     m_terrainGOSpawnTargetName: Gaia Game Object Spawns
@@ -1415,7 +1415,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -1604,7 +1604,7 @@ MonoBehaviour:
     m_imageMaskLocation: 0
     m_strength: 1
     m_seaLevel: 25
-    m_maxWorldHeight: 146.596
+    m_maxWorldHeight: 124.75191
     m_minWorldHeight: 0
     m_xOffSet: 0
     m_zOffSet: 0
@@ -1655,6 +1655,15 @@ MonoBehaviour:
         weightedMode: 0
         inWeight: 0
         outWeight: 0
+      - serializedVersion: 3
+        time: 0.11540614
+        value: 0.64016914
+        inSlope: 1
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
@@ -1758,6 +1767,17 @@ MonoBehaviour:
       m_type: 0
       m_treeSpawnRuleGUID: cb73fed7-5a7b-4f95-b64e-d9cf1e9d1b70
       m_tag: 
+      m_Radius: 15
+      m_growShrinkDistance: 0
+      m_layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      m_layerMaskLayerNames: []
+    - m_active: 1
+      m_invert: 0
+      m_type: 1
+      m_treeSpawnRuleGUID: a4a4b863-1d53-4e2c-99cf-a153a8f4e448
+      m_tag: PW - Building
       m_Radius: 15
       m_growShrinkDistance: 0
       m_layerMask:
